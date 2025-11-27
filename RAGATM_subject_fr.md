@@ -1,11 +1,10 @@
 version 1.0
 # RAG_against_the
-Will you answer my questions ?
+***Vas tu repondre à ma question?***
 
 **Summary**  
 Retrieval Augmented Generation, c'est ça. C'est l'objectif de ce projet.  
 Réalisé en collaboration avec @ldevelle, @pcamaren, @crfernan
-
 
 ## Contents
 

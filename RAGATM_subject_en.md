@@ -1,11 +1,10 @@
 version 1.0
 # RAG_against_the
-Will you answer my questions ?
+***Will you answer my questions ?***
 
 **Summary**  
 Retrieval Augemented Generation, that’s it. That’s the goal of this project.  
 Made in collaboration with @ldevelle, @pcamaren, @crfernan
-
 
 ## Contents
 
@@ -26,7 +25,7 @@ Made in collaboration with @ldevelle, @pcamaren, @crfernan
 1.3.7 [Evaluation](#137-evaluation)  
 1.3.8 [Optional part](#138-optional-part)  
 
-## Foreword
+## 1 Foreword
 
 The birthday paradox is a classic problem in probability theory that demonstrates how unex- pected events can occur more frequently than expected. It shows that even when the probability of an event is very low, it can still happen if there are enough opportunities.  
   
